@@ -32,7 +32,7 @@
     "jsonminify": "^0.2.3",
     "marko-async": "^2.0.0",
     "marko-layout": "^2.0.0",
-    "minimatch": "^0.2.14",
+    "minimatch": "^9.0.0",
     "property-handlers": "^1.0.0",
     "raptor-args": "^1.0.0",
     "raptor-json": "^1.0.1",
